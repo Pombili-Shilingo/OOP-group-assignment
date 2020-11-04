@@ -1,6 +1,8 @@
 # OOP-group-assignment
 Parking &amp; Vehicle Management Systems (PVMS)
 
+![alt text](/images/parking.jpg)
+
 ## Problem Motivation
 The Department of Facilities (FAC) needs Parking & Vehicle Management Systems
 (PVMS). The key objective of the system is efficient and clear administration of the
